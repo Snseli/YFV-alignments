@@ -34,13 +34,13 @@ Key :
 Genotype :
 |code|genotype|count|
 |---|---|---|
-|AGO|Angola|00|
-|EA|East Africa|00|
-|ECA|East Central Africa|00|
-|WA|West Africa|00|
-|WCA|West Central Africa|00|
-|SA1|South America 1|00|
-|SA2|South America 2|00|
+|AGO|Angola|22|
+|EA|East Africa|1|
+|ECA|East Central Africa|5|
+|WA|West Africa|60|
+|WCA|West Central Africa|3|
+|SA1|South America 1|810|
+|SA2|South America 2|5|
 
 Country :
 |code|country|count|
@@ -68,7 +68,7 @@ Country :
 
 *Put here a graphic on country*
 
-## YFV wvaccinal strain
+## YFV vaccinal strain         **PENSER A NETTOYER LA DATABASE DES VAC POUR ENLEVER LES ADAPTED !**
 Alignement file : {%%}
 
 Total number of sequences : 42
@@ -86,36 +86,25 @@ Key :
 Vaccine :
 |code|vaccine|count|
 |---|---|---|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|17D-204-SA|17D-204 South Affrica|3|
+|17D-Tiantan|17D-Tiantan|1|
+|17DD|17DD|9|
+|STAMARIL|Stamaril, 17D-204|14|
+|UNK|Unknown|5|
+|YF-VAX|Sanofi Pasteur 17D-204|10|
 
 Country :
 |code|country|count|
 |---|---|---|
-|AGO|Angola|2|
-|BOL|Bolivia|2|
-|BRA|Brazil|780|
-|CAF|Central African Republic|1|
-|CHN|China|19|
-|CIV|Ivory Coast|2|
-|ETH|Ethiopia|1|
-|GHA|Ghana|3|
-|GMB|Gambia|1|
-|GNB|Guinea-Bissau|1|
-|NGA|Nigeria|16|
-|NLD|Netherlands|8|
-|Per|Peru|2|
-|SDN|Sudan|1|
-|SEN|Senegal|31|
-|SUR|Surinam|1|
-|TTO|Trinidad and Tobago|9|
-|UGA|Uganda|3|
-|UNK|Unknown|9|
-|VEN|Venezuela|14|
+|BEL|Belgique|8|
+|BRA|Brazil|2|
+|CHN|China|1|
+|ECU|Ecudador|1|
+|ESP|Espagna|1|
+|FRA|France|6|
+|Per|Peru|4|
+|RUS|Russia|1|
+|UNK|Unknown|15|
+|USA|United States of America|3|
 
 *Put here a graphic on country*
