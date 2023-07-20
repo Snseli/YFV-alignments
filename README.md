@@ -70,7 +70,7 @@ Country :
 
 
 ## YFV vaccinal strain
-Alignement file : {%%}
+Alignement file : [Yellow fever virus alignment, vaccinal](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-Vaccine-alignments-ref-FNV.fasta)
 
 Total number of sequences : 38
 
