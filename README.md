@@ -17,7 +17,7 @@ Only codon region is observe here.the fasta file was aligned using mafft and ins
 Then for each alignment files, maximun-likelihood (ML) phylogeny is reconstructed with IQ-TREE. In this github only the first two alignement will be show. For the third one you can send me a message if you needed. 
 
 ## YFV wild-type strain
-Alignement file : {%%}
+Alignement file : [Yellow fever virus alignment, wild-type](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-WildType-alignements-ref-FVV.fasta)
 
 Total number of sequences : 906
 
