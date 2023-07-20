@@ -66,7 +66,8 @@ Country :
 |UNK|Unknown|9|
 |VEN|Venezuela|14|
 
-*Put here a graphic on country*
+![image](https://github.com/Snseli/YFV-alignments/assets/126793871/f73b8a91-6490-4b95-9e51-24aca5b6bfba)
+
 
 ## YFV vaccinal strain
 Alignement file : {%%}
@@ -79,7 +80,8 @@ Fasta header format :
 
 ML Tree file: {%%}
 
-*Put image of phylogenic tree here*
+![image](https://github.com/Snseli/YFV-alignments/assets/126793871/d3184076-6576-42ad-8bce-aa467e98527f)
+
 
 Key :
 
