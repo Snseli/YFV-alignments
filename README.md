@@ -78,7 +78,7 @@ Fasta header format :
 
 `Genbank accession | Country | date | vaccine | adverse event (AE)`
 
-ML Tree file: {%%}
+ML Tree file: [Vaccinal treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20vaccine%20treefile/YFV-Vaccine-alignments-ref-FNV.treefile)
 
 ![image](https://github.com/Snseli/YFV-alignments/assets/126793871/d3184076-6576-42ad-8bce-aa467e98527f)
 
