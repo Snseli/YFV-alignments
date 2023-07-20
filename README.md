@@ -68,10 +68,10 @@ Country :
 
 *Put here a graphic on country*
 
-## YFV vaccinal strain         **PENSER A NETTOYER LA DATABASE DES VAC POUR ENLEVER LES ADAPTED !**
+## YFV vaccinal strain
 Alignement file : {%%}
 
-Total number of sequences : 42
+Total number of sequences : 38
 
 Fasta header format : 
 
@@ -88,10 +88,10 @@ Vaccine :
 |---|---|---|
 |17D-204-SA|17D-204 South Affrica|3|
 |17D-Tiantan|17D-Tiantan|1|
-|17DD|17DD|9|
+|17DD|17DD|8|
 |STAMARIL|Stamaril, 17D-204|14|
 |UNK|Unknown|5|
-|YF-VAX|Sanofi Pasteur 17D-204|10|
+|YF-VAX|Sanofi Pasteur 17D-204|7|
 
 Country :
 |code|country|count|
@@ -102,9 +102,10 @@ Country :
 |ECU|Ecudador|1|
 |ESP|Espagna|1|
 |FRA|France|6|
-|Per|Peru|4|
+|PER|Peru|3|
 |RUS|Russia|1|
-|UNK|Unknown|15|
+|UNK|Unknown|12|
 |USA|United States of America|3|
 
-*Put here a graphic on country*
+![image](https://github.com/Snseli/YFV-alignments/assets/126793871/a5a60a6e-0103-4d74-972a-f3b8ad46718c)
+
