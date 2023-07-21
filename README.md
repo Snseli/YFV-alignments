@@ -27,7 +27,8 @@ Fasta header format :
 
 ML Tree file: {%%}
 
-*Put image of phylogenic tree here*
+![image](https://github.com/Snseli/YFV-alignments/assets/126793871/1d9b8e03-afa5-4c4a-a390-e9ae0b832fca)
+
 
 Key :
 
