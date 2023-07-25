@@ -1,20 +1,20 @@
 # YFV-alignments
-This alignments use available data on genbank about all yellow fever virus (YFV) sequences. It is monthly updated a priori (in progress). 
+These alignments use the data available on genbank for all yellow fever virus (YFV) sequences. It is updated monthly a priori (in progress).
 
 last update : april 26th, 2023
 
-This alignment is cleaned and filtered to keep only YFV sequences which lenght is around 11 000 pb. So our alingment do not include : 
+This alignment is cleaned and filtered to keep only yellow fever virus sequences around 11,000 bp in length. Our alignment therefore does not include :
 * laboratory strains (adapted, passaged, recombinant, antiviral & vaccine experiments)
 * duplicates (when more than one sequence is available for a single strain)
-* related strain to YFV as like French neurotropic virus or French viscerotropic virus
-* Sequences has been mis-sequenced
+* related strain to YFV, such as the French neurotropic virus or the French viscerotropic virus.
+* Sequences that have been poorly sequenced
 
-Only codon region is observe here.the fasta file was aligned using mafft and inspected manually. At this step we have 3 alignments files :
+Only the codon region is shown here. The fasta file was aligned using mafft and inspected manually. At this stage, we have 3 alignment files:
 * YFV wild-type strain
 * YFV vaccinal strain
 * YFV wild-type and vaccinal strain
 
-Then for each alignment files, maximun-likelihood (ML) phylogeny is reconstructed with IQ-TREE. In this github only the first two alignement will be show. For the third one you can send me a message if you needed. 
+Then, for each alignment files, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, only the first two alignments will be presented. For the third, you can send me a message if you need it.
 
 ## YFV wild-type strain
 Alignement file : [Yellow fever virus alignment, wild-type](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-WildType-alignements-ref-FVV.fasta)
