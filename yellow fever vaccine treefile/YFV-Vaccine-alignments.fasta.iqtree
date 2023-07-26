@@ -1,0 +1,161 @@
+IQ-TREE 1.6.12 built Mar 23 2020
+
+Input file name: YFV-Vaccine-alignments.fasta
+Type of analysis: tree reconstruction
+Random seed number: 311334
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 38 sequences with 10235 nucleotide sites
+Number of constant sites: 10129 (= 98.9643% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 10129 (= 98.9643% of all sites)
+Number of parsimony informative sites: 61
+Number of distinct site patterns: 82
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+R4
+
+Rate parameter R:
+
+  A-C: 1.6036
+  A-G: 7.8087
+  A-T: 0.8664
+  C-G: 0.2028
+  C-T: 16.3666
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2704
+  pi(C) = 0.2109
+  pi(G) = 0.286
+  pi(T) = 0.2327
+
+Rate matrix Q:
+
+  A   -0.8496    0.1036    0.6842   0.06178
+  C    0.1329    -1.318   0.01777     1.167
+  G    0.6469   0.01311   -0.7313   0.07131
+  T   0.07178     1.058   0.08762    -1.217
+
+Model of rate heterogeneity: FreeRate with 4 categories
+Site proportion and rates:  (0.3701,0.08254) (0.31,0.2873) (0.2913,0.3595) (0.02861,27.11)
+
+ Category  Relative_rate  Proportion
+  1         0.08254        0.3701
+  2         0.2873         0.31
+  3         0.3595         0.2913
+  4         27.11          0.02861
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -15148.5421 (s.e. 93.7911)
+Unconstrained log-likelihood (without tree): -15001.2579
+Number of free parameters (#branches + #model parameters): 81
+Akaike information criterion (AIC) score: 30459.0842
+Corrected Akaike information criterion (AICc) score: 30460.3926
+Bayesian information criterion (BIC) score: 31045.0032
+
+Total tree length (sum of branch lengths): 0.0120
+Sum of internal branch lengths: 0.0066 (55.1768% of tree length)
+
+WARNING: 24 near-zero internal branches (<0.0001) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'OP796361_RUS_UNK_17DD' is drawn at root
+
++-----------OP796361_RUS_UNK_17DD
+|
+|                                                     +**MN708497_BEL_2019-2-7_STAMARIL
+|                                                  +**|
+|                                                  |  |        +**OM938990_FRA_2019_YF_VAX
+|                                                  |  |  +-----|
+|                                                  |  |  |     +**OM938989_FRA_2018_YF_VAX
+|                                                  |  +**|
+|                                                  |     |     +**JX949181_USA_2012-7-3_UNK
+|                                                  |     |  +**|
+|                                                  |     |  |  |     +--AF052439_UNK_UNK_YF_VAX
+|                                                  |     |  |  +-----|
+|                                                  |     |  |        |  +**AF052438_UNK_UNK_YF_VAX
+|                                                  |     |  |        +**|
+|                                                  |     |  |           +**AF052437_UNK_UNK_YF_VAX
+|                                                  |     +**|
+|                                                  |        |  +**KF769015_UNK_UNK_YF_VAX
+|                                                  |        +**|
+|                                                  |           +**JX503529_UNK_UNK_YF_VAX
+|                                               +**|
+|                                               |  +**MN708496_BEL_2019-2-7_STAMARIL
+|                                            +--|
+|                                            |  +--MN708489_BEL_2019-2-7_STAMARIL
+|                                         +**|
+|                                         |  +**MW158360_PER_2011-3_17DD_AE
+|                                      +**|
+|                                      |  |  +**MN708490_BEL_2019-2-7_STAMARIL
+|                                      |  +**|
+|                                      |     |           +-----MT840700_UNK_UNK_UNK
+|                                      |     |        +--|
+|                                      |     |        |  |     +**AF052446_UNK_UNK_17D-204-SA
+|                                      |     |        |  |  +**|
+|                                      |     |        |  |  |  +**AF052444_UNK_UNK_17D-204-SA
+|                                      |     |        |  +**|
+|                                      |     |        |     +--AF052445_UNK_UNK_17D-204-SA
+|                                      |     |     +**|
+|                                      |     |     |  +**X15062_UNK_UNK_UNK
+|                                      |     |  +**|
+|                                      |     |  |  |  +**DQ118157_ESP_2004_STAMARIL_AE
+|                                      |     |  |  +**|
+|                                      |     |  |     +-----------------FJ654700_CHN_UNK_17D-TIANTAN
+|                                      |     +**|
+|                                      |        +**OK573009_USA_UNK_UNK
+|                                   +**|
+|                                   |  +**MN708488_FRA_2019-2-7_STAMARIL
+|               +-------------------|
+|               |                   |        +--MN708495_BEL_2019-2-7_STAMARIL
+|               |                   |     +**|
+|               |                   |     |  +--MN708491_BEL_2019-2-7_STAMARIL
+|               |                   |  +**|
+|               |                   |  |  +**MW249080_FRA_2019-2-7_STAMARIL
+|               |                   +**|
+|               |                      |  +**MN708494_BEL_2019-2-7_STAMARIL
+|               |                      +**|
+|               |                         |     +--MN708493_BEL_2019-2-7_STAMARIL
+|               |                         |  +**|
+|               |                         |  |  |   +-----MW158363_USA_1966_17DD_AE
+|               |                         |  |  +---|
+|               |                         |  |      +---MW158358_PER_2004_17DD_AE
+|               |                         +**|
+|               |                            +**MG051217_UNK_UNK_UNK
++---------------|
+|               |                                         +**GQ379162_PER_2007-10_17DD_AE
+|               |                                      +**|
+|               |                                      |  +--MW158362_ECU_1997-7_17DD_AE
+|               +--------------------------------------|
+|                                                      +**MN737509_BRA_2019-11-21_17DD
+|
++--DQ100292_BRA_UNK_17DD
+
+Tree in newick format:
+
+(OP796361_RUS_UNK_17DD:0.0007383997,((((((((MN708497_BEL_2019-2-7_STAMARIL:0.0000968898,((OM938990_FRA_2019_YF_VAX:0.0000024211,OM938989_FRA_2018_YF_VAX:0.0000966580):0.0003939445,((JX949181_USA_2012-7-3_UNK:0.0000968165,(AF052439_UNK_UNK_YF_VAX:0.0001950705,(AF052438_UNK_UNK_YF_VAX:0.0000967332,AF052437_UNK_UNK_YF_VAX:0.0000967492):0.0000019904):0.0003930172):0.0000019919,(KF769015_UNK_UNK_YF_VAX:0.0000024817,JX503529_UNK_UNK_YF_VAX:0.0000024817):0.0000020162):0.0000025510):0.0000969181):0.0000021452,MN708496_BEL_2019-2-7_STAMARIL:0.0000020568):0.0000020375,MN708489_BEL_2019-2-7_STAMARIL:0.0001972349):0.0001946018,MW158360_PER_2011-3_17DD_AE:0.0000970177):0.0000025039,(MN708490_BEL_2019-2-7_STAMARIL:0.0000024817,((((MT840700_UNK_UNK_UNK:0.0003941501,((AF052446_UNK_UNK_17D-204-SA:0.0000970992,AF052444_UNK_UNK_17D-204-SA:0.0000024817):0.0000024817,AF052445_UNK_UNK_17D-204-SA:0.0001961782):0.0000966536):0.0000979904,X15062_UNK_UNK_UNK:0.0000972405):0.0000972027,(DQ118157_ESP_2004_STAMARIL_AE:0.0000971136,FJ654700_CHN_UNK_17D-TIANTAN:0.0011062437):0.0000023517):0.0000020805,OK573009_USA_UNK_UNK:0.0000024817):0.0000016059):0.0000024817):0.0000022808,MN708488_FRA_2019-2-7_STAMARIL:0.0000024817):0.0000947018,(((MN708495_BEL_2019-2-7_STAMARIL:0.0001959578,MN708491_BEL_2019-2-7_STAMARIL:0.0001963826):0.0000967771,MW249080_FRA_2019-2-7_STAMARIL:0.0000020543):0.0000969882,(MN708494_BEL_2019-2-7_STAMARIL:0.0000024817,((MN708493_BEL_2019-2-7_STAMARIL:0.0001952428,(MW158363_USA_1966_17DD_AE:0.0003956193,MW158358_PER_2004_17DD_AE:0.0002959150):0.0002967628):0.0000020588,MG051217_UNK_UNK_UNK:0.0000024817):0.0000020677):0.0000021299):0.0000015913):0.0012213540,((GQ379162_PER_2007-10_17DD_AE:0.0000024817,MW158362_ECU_1997-7_17DD_AE:0.0002115141):0.0000020430,MN737509_BRA_2019-11-21_17DD:0.0000020791):0.0023840470):0.0010176468,DQ100292_BRA_UNK_17DD:0.0001505506);
+
+TIME STAMP
+----------
+
+Date and time: Tue Jul 25 09:09:05 2023
+Total CPU time used: 10.0079 seconds (0h:0m:10s)
+Total wall-clock time used: 10.3223 seconds (0h:0m:10s)
+
