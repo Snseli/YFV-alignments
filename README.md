@@ -27,7 +27,7 @@ Fasta header format :
 
 ML Tree file: [Wild-Type treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20WT%20treefile/YFV-WildType-alignements-ref-FVV.treefile)
 
-![image](https://github.com/Snseli/YFV-alignments/assets/126793871/1d9b8e03-afa5-4c4a-a390-e9ae0b832fca)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-treefile.png)
 
 
 Key :
