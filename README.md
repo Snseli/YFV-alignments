@@ -67,7 +67,7 @@ Country :
 |UNK|Unknown|9|
 |VEN|Venezuela|14|
 
-![image](https://github.com/Snseli/YFV-alignments/assets/126793871/f73b8a91-6490-4b95-9e51-24aca5b6bfba)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-country_years.png)
 
 
 ## YFV vaccinal strain
@@ -110,5 +110,5 @@ Country :
 |UNK|Unknown|12|
 |USA|United States of America|3|
 
-![image](https://github.com/Snseli/YFV-alignments/assets/126793871/a5a60a6e-0103-4d74-972a-f3b8ad46718c)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-vaccine-country_years.png)
 
