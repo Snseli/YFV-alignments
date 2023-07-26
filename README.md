@@ -17,7 +17,7 @@ Only the codon region is shown here. The fasta file was aligned using mafft and 
 Then, for each alignment files, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, only the first two alignments will be presented. For the third, you can send me a message if you need it.
 
 ## YFV wild-type strain
-Alignement file : [Yellow fever virus alignment, wild-type](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-WildType-alignements-ref-FVV.fasta)
+Alignement file : [Yellow fever virus alignment, wild-type](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-WildType-alignements.fasta)
 
 Total number of sequences : 906
 
@@ -25,7 +25,7 @@ Fasta header format :
 
 `Genotype | Genbank accession | Country | date`
 
-ML Tree file: [Wild-Type treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20WT%20treefile/YFV-WildType-alignements-ref-FVV.treefile)
+ML Tree file: [Wild-Type treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20WT%20treefile/YFV-WildType-alignements.fasta.treefile)
 
 ![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-treefile.png)
 
@@ -71,7 +71,7 @@ Country :
 
 
 ## YFV vaccinal strain
-Alignement file : [Yellow fever virus alignment, vaccinal](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-Vaccine-alignments-ref-FNV.fasta)
+Alignement file : [Yellow fever virus alignment, vaccinal](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-Vaccine-alignments.fasta)
 
 Total number of sequences : 38
 
@@ -79,7 +79,7 @@ Fasta header format :
 
 `Genbank accession | Country | date | vaccine | adverse event (AE)`
 
-ML Tree file: [Vaccinal treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20vaccine%20treefile/YFV-Vaccine-alignments-ref-FNV.treefile)
+ML Tree file: [Vaccinal treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20vaccine%20treefile/YFV-Vaccine-alignments.fasta.treefile)
 
 ![image](https://github.com/Snseli/YFV-alignments/assets/126793871/fcb964e8-9d7c-4b7a-b57a-ae2c6903aff6)
 
