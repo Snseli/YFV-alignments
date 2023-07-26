@@ -81,7 +81,7 @@ Fasta header format :
 
 ML Tree file: [Vaccinal treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20vaccine%20treefile/YFV-Vaccine-alignments.fasta.treefile)
 
-![image](https://github.com/Snseli/YFV-alignments/assets/126793871/fcb964e8-9d7c-4b7a-b57a-ae2c6903aff6)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-vaccine-treefile.PNG)
 
 
 Key :
