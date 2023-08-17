@@ -14,7 +14,7 @@ Only the codon region is shown here. The fasta file was aligned using mafft and 
 * YFV vaccinal strain
 * YFV wild-type and vaccinal strain
 
-Then, for each alignment files, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, only the first two alignments will be presented. For the third, you can send me a message if you need it.
+Then, for each alignment files, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, only the first two alignments will be presented. For the third one, you can send me a message if you need it.
 
 ## YFV wild-type strain
 Alignement file : [Yellow fever virus alignment, wild-type](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV-WildType-alignements.fasta)
