@@ -58,7 +58,7 @@ Country :
 |GNB|Guinea-Bissau|1|
 |NGA|Nigeria|16|
 |NLD|Netherlands|8|
-|Per|Peru|2|
+|PER|Peru|2|
 |SDN|Sudan|1|
 |SEN|Senegal|31|
 |SUR|Surinam|1|
@@ -67,7 +67,7 @@ Country :
 |UNK|Unknown|9|
 |VEN|Venezuela|14|
 
-![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-country_years.png)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-country_years_log.PNG)
 
 
 ## YFV vaccinal strain
@@ -110,5 +110,5 @@ Country :
 |UNK|Unknown|12|
 |USA|United States of America|3|
 
-![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-vaccine-country_years.png)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-vaccine-country_years_log.PNG)
 
