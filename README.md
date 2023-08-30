@@ -67,7 +67,7 @@ Country :
 |UNK|Unknown|9|
 |VEN|Venezuela|14|
 
-![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-country_years_log.PNG)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-WildType-country_years.png)
 
 
 ## YFV vaccinal strain
@@ -96,19 +96,4 @@ Vaccine :
 |UNK|Unknown|5|
 |YF-VAX|Sanofi Pasteur 17D-204|7|
 
-Country :
-|code|country|count|
-|---|---|---|
-|BEL|Belgique|8|
-|BRA|Brazil|2|
-|CHN|China|1|
-|ECU|Ecudador|1|
-|ESP|Espagna|1|
-|FRA|France|6|
-|PER|Peru|3|
-|RUS|Russia|1|
-|UNK|Unknown|12|
-|USA|United States of America|3|
-
-![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/YFV-vaccine-country_years_log.PNG)
 
