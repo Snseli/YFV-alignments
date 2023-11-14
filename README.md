@@ -61,7 +61,6 @@ Country :
 
 
 ## YFV vaccinal strain
-Alignement file : 
 Total number of VACC sequences : 26
 
 Fasta header format : 
