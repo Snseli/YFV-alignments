@@ -81,7 +81,8 @@ Vaccine :
 
 ## Tree representation and alignment file
 Alignement file :[Yellow_fever_virus_aln.fasta](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV_aln_14092023.fasta)
-ML Tree file:
+
+ML Tree file:[YFV_Treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20treefile/YFV_aln_14092023_treefile.treefile)
 
 ![image]
 
