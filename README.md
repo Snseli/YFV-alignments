@@ -80,7 +80,7 @@ Vaccine :
 |YF-VAX|Sanofi Pasteur 17D-204|5|
 
 ## Tree representation and alignment file
-Alignement file :
+Alignement file :[Yellow_fever_virus_aln.fasta](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV_aln_14092023.fasta)
 ML Tree file:
 
 ![image]
