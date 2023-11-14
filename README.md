@@ -84,5 +84,5 @@ Alignement file :[Yellow_fever_virus_aln.fasta](https://github.com/Snseli/YFV-al
 
 ML Tree file:[YFV_Treefile](https://github.com/Snseli/YFV-alignments/blob/main/yellow%20fever%20treefile/YFV_aln_14092023_treefile.treefile)
 
-![image]
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/TREE_and_SUBTREE_MAJsept_YFV.PNG)
 
