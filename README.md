@@ -65,7 +65,7 @@ Total number of VACC sequences : 26
 
 Fasta header format : 
 
-`Genbank accession | Country | date | vaccine | adverse event (AE)`
+`VACC|Genbank accession | Country | date | vaccine | adverse event (AE)`
 
 Key :
 
