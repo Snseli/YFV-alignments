@@ -30,37 +30,39 @@ Key :
 Genotype :
 |code|genotype|count|
 |---|---|---|
-|AGO|Angola||
-|EA|East Africa||
-|ECA|East Central Africa||
-|WA|West Africa||
-|WCA|West Central Africa||
-|SA1|South America 1||
-|SA2|South America 2||
+|AGO|Angola|23|
+|EA|East Africa|1|
+|ECA|East Central Africa|5|
+|WA|West Africa|60|
+|WCA|West Central Africa|3|
+|SA1|South America 1|1138 ?|
+|SA2|South America 2|7|
 
 Country :
 |code|country|count|
 |---|---|---|
-|AGO|Angola||
-|BOL|Bolivia||
-|BRA|Brazil||
-|CAF|Central African Republic||
-|CHN|China||
-|CIV|Ivory Coast||
-|ETH|Ethiopia||
-|GHA|Ghana||
-|GMB|Gambia||
-|GNB|Guinea-Bissau||
-|GMB/SEN|Gambia or Senegal||
-|NGA|Nigeria||
-|PER|Peru||
-|SDN|Sudan||
-|SEN|Senegal||
-|SUR|Surinam||
-|TTO|Trinidad and Tobago||
-|UGA|Uganda||
-|UNK|Unknown||
-|VEN|Venezuela||
+|AGO|Angola|2|
+|BOL|Bolivia|2|
+|BRA|Brazil|1116|
+|CAF|Central African Republic|1|
+|CHN|China|20|
+|CIV|Ivory Coast|2|
+|COL|Colombie|3|
+|ETH|Ethiopia|1|
+|GHA|Ghana|3|
+|GMB|Gambia|1|
+|GIN|Guinea|1|
+|GMB/SEN|Gambia or Senegal|1|
+|NGA|Nigeria|16|
+|PAN|Panama|1|
+|PER|Peru|3|
+|SDN|Sudan|1|
+|SEN|Senegal|30|
+|SUR|Surinam|1|
+|TTO|Trinidad and Tobago|8|
+|UGA|Uganda|3|
+|UNK|Unknown|10|
+|VEN|Venezuela|11|
 
 
 
@@ -76,12 +78,13 @@ Key :
 Vaccine :
 |code|vaccine|count|
 |---|---|---|
-|17D-204|17D-204||
-|17D-Tiantan|17D-Tiantan||
-|17DD|17DD||
-|STAMARIL|Stamaril, 17D-204||
-|UNK|Unknown||
-|YF-VAX|Sanofi Pasteur 17D-204||
+|17D-204|17D-204|7|
+|17D-213|17D-213|1|
+|17D-Tiantan|17D-Tiantan|1|
+|17DD|17DD|3|
+|STAMARIL|Stamaril, 17D-204|4|
+|UNK|Unknown|15|
+|YF-VAX|Sanofi Pasteur 17D-204|?|
 
 ## Tree representation and alignment file
 Alignement file :[Yellow_fever_virus_aln.fasta](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/YFV_aln_14092023.fasta)
