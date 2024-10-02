@@ -70,7 +70,9 @@ Total number of VACC sequences :
 Fasta header format : 
 
 `VAC|Genbank accession | Country | date `
+
 | vaccine | adverse event (AE)
+
 Key :
 
 Vaccine :
