@@ -10,7 +10,7 @@ This alignment is cleaned and filtered to keep only yellow fever virus sequences
 * Sequences that have been poorly sequenced
 
 Only the codon region is shown here. The fasta file was aligned using mafft and inspected manually. We have one alignment file:
-* YFV wild-type (WT) and vaccinal strain (VACC)
+* YFV wild-type (WT) (986 sequences) and vaccinal strain (VACC) (32 seqeunces)
 
 Then, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, the obtained tree will be presented. 
 
@@ -43,21 +43,21 @@ Country :
 |---|---|---|
 |AGO|Angola|2|
 |BOL|Bolivia|2|
-|BRA|Brazil|1116|
+|BRA|Brazil|870|
 |CAF|Central African Republic|1|
-|CHN|China|20|
+|CHN|China|18|
 |CIV|Ivory Coast|2|
-|COL|Colombie|3|
+|COL|Colombie|2|
 |ETH|Ethiopia|1|
 |GHA|Ghana|3|
 |GMB|Gambia|1|
 |GIN|Guinea|1|
 |GMB/SEN|Gambia or Senegal|1|
-|NGA|Nigeria|16|
+|NGA|Nigeria|15|
 |PAN|Panama|1|
 |PER|Peru|3|
 |SDN|Sudan|1|
-|SEN|Senegal|30|
+|SEN|Senegal|29|
 |SUR|Surinam|1|
 |TTO|Trinidad and Tobago|8|
 |UGA|Uganda|3|
