@@ -10,7 +10,7 @@ This alignment is cleaned and filtered to keep only yellow fever virus sequences
 * Sequences that have been poorly sequenced
 
 Only the codon region is shown here. The fasta file was aligned using mafft and inspected manually. We have one alignment file:
-* YFV wild-type (WT) (986 sequences) and vaccinal strain (VACC) (32 seqeunces)
+* YFV wild-type (WT) (982 sequences) and vaccinal strain (VACC) (30 seqeunces)
 
 Then, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, the obtained tree will be presented. 
 
