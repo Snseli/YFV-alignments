@@ -20,7 +20,7 @@ The number of sequences varies from country to country. In this dataset, Brazil 
 []
 
 ## YFV wild-type strain
- Total number of WT sequences : 
+ Total number of WT sequences : 982
 
 Fasta header format : 
 
@@ -66,7 +66,7 @@ Country :
 |VEN|Venezuela|11|
 
 ## YFV vaccinal strain
-Total number of VACC sequences : 
+Total number of VACC sequences : 30
 
 Fasta header format : 
 
