@@ -14,7 +14,7 @@ Only the codon region is shown here. The fasta file was aligned using mafft and 
 
 Then, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, the obtained tree will be presented. 
 
-## All sequenced YFV per years 
+## All sequenced YFV 
 The number of sequences varies from country to country. In this dataset, Brazil has the highest number of sequences. To analyse the number of sequences by year group (by decade after the 2000s), a bar chart has been produced. To make the chart easier to understand, Brazil was removed from the chart and a pie chart was created specifically for that country.
 []
 []
