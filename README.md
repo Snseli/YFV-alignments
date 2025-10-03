@@ -96,7 +96,7 @@ Country :
 |VEN|Venezuela|15|
 
 ## Tree representation and alignment file
-Alignement file :[Yellow_fever_virus_aln.fasta]()
+Alignement file :[Yellow_fever_virus_aln.fasta](https://github.com/Snseli/YFV-alignments/blob/main/Yellow%20fever%20alignements/aln_cds_YFV_03102025.fasta)
 
 ML Tree file:[YFV_Treefile]()
 
