@@ -17,8 +17,8 @@ Then, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. I
 ## All sequenced YFV 
 The number of sequences varies from country to country. In this dataset, Brazil has the highest number of sequences. To analyse the number of sequences by year group (by decade after the 2000s), a bar chart has been produced. To make the chart easier to understand, Brazil was removed from the chart and a pie chart was created specifically for that country.
 
-![image]()
-![image]()
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/Number_of_sequence_per_year_by_country_without_BRA_102025.png)
+![image](https://github.com/Snseli/YFV-alignments/blob/main/PNG/Number_of_sequence_per_year_BRA_102025.png)
 
 ## YFV wild-type strain
  Total number of WT sequences : 1210
