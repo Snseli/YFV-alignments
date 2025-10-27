@@ -5,11 +5,10 @@ last update : october 3rd, 2025
 
 This alignment is cleaned and filtered to keep only yellow fever virus sequences around 11,000 bp in length. Our alignment therefore does not include :
 * laboratory strains (adapted, passaged, recombinant, antiviral & vaccine experiments)
-* duplicates (when more than one sequence is available for a single strain)
 * related strain to YFV, such as the French neurotropic virus or the French viscerotropic virus.
 * Sequences that have been poorly sequenced
 
-Only the codon region is shown here. The fasta file was aligned using mafft and inspected manually. We have one alignment file:
+Only the codon region is shown here. The fasta file was aligned using mafft and inspected manually. We have one aligned file:
 * YFV wild-type (WT) (1210 sequences) and vaccinal strain (VACC) (25 seqeunces)
 
 Then, phylogeny by likelihood maximization (ML) is reconstructed with IQ-TREE. In this github, the obtained tree will be presented. 
